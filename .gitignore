@@ -1,0 +1,21 @@
+# Generated interview deliverables (commit deliberately, not by default)
+/output/
+/exports/
+/projects/
+*.pptx
+*.docx
+~$*
+
+# Python (ppt-master scripts)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
